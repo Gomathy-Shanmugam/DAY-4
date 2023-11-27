@@ -1,4 +1,4 @@
-//Do the below programs in Arrow function & IIFE
+//Do the below programs in Arrow function
 //a.Print odd numbers in an array
 //arrow function
  const odd = (array) => array.filter((num) => num % 2 !== 0);
